@@ -1,4 +1,4 @@
-export interface InvestmenmtInput {
+export interface InvestmentInput {
   initialInvestment: number;
   annualInvestment: number;
   expectedReturn: number;
